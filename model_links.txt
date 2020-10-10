@@ -1,0 +1,1 @@
+model1_effnetb2_trial1.h5: https://drive.google.com/file/d/1-4d-E-oQOi4kTX2io9PXNgQPPGMXYLVf/view?usp=sharing
