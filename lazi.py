@@ -22,10 +22,10 @@ while True:
     if cv2.waitKey(10) == ord('b'):
         break
     if a[0][0] > 0.000001:
-        print(1)
+        print(1)  # For face
         b = 2
     else:
-        print(0)
+        print(0)  # For hand
         b += 1
     if b > 15:
         ctypes.windll.user32.LockWorkStation()
